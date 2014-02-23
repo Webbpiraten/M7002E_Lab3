@@ -14,7 +14,7 @@ and one yellow cube that is being instanced several times.
 
 -----------------------------------
 
-Depending on the key you press, you enter move the cubes:
+Depending on the key you press, you move the cubes:
 
 The keys T, F and H activates an animation for the three cubers. You can press G to stop the animation.
 
